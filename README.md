@@ -18,11 +18,9 @@ Python & Machine Learning Developer
 
 ### Languages & Tools
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-</p>
-
+ - Python
+ - C++
+ - Jupyter
 ### Aerospace & Simulation
 - Flight Dynamics / Control
 - PX4-Drone
@@ -60,7 +58,7 @@ _(위 항목들은 앞으로 레포를 만들면 링크를 걸 자리야.)_
 ## 🔗 Links & Contact
 
 - 📒 **Notion**: [https://www.notion.so/17245fb93fd9803f8126fdaa005d2dbb](https://www.notion.so/17245fb93fd9803f8126fdaa005d2dbb)
-- ✉️ **Email**: 12210465@inha.edu
+- ✉️ **Email**: lewis430@inha.edu
 
 ---
 

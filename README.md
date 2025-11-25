@@ -26,34 +26,30 @@ Python & Machine Learning Developer
 - **Jupyter**
 
 ### **Aerospace & Simulation**
-<p>
-  <img src="https://img.shields.io/badge/Flight_Dynamics-0A66C2?style=for-the-badge&logo=aircanada&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kalman_Filtering-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Control-FF6F00?style=for-the-badge" />
-</p>
+- **Flight Dynamics**
+- **Control**
 
 ### **Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-Ongoing-4CAF50?style=for-the-badge" />
-</p>
+- **Machine Learning**
+- **Study**
 
+### **Undergraduate Research**
+- **PX4-Drone**
+- **Structure with ABAQUS**
+- **Control**
 ---
 
 ## 📂 Featured Work
 
-- 🚀 **Aerospace Simulation Codes**  
-  - Flight dynamics, control, Kalman filter assignments  
-  - NASA DDL-F1, IMU integration, numerical analysis notebooks
+- 🚀 **Python Codes**  
+  - Python Assignments
 
 - 📘 **University Course Projects**  
-  - 과목 설계용 실험 리포트, 템플릿, 분석 코드  
-  - Python 기반 자동화 / 그래프 생성 / MSE 비교 등
+  - Major Courses(required courses)
 
 - 🤖 **ML Projects**  
-  - Regression / Classification 실험  
-  - Robust Loss / Quantile Regression / 데이터 전처리
+  - Study with Lecture Notes
+  - Exercises
 
 ---
 

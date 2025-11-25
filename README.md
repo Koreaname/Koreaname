@@ -53,15 +53,6 @@ Python & Machine Learning Developer
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koreaname&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koreaname&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 ## 📎 Links & Contact
 
 - 📒 **Notion**: https://www.notion.so/17245fb93fd9803f8126fdaa005d2dbb?source=copy_link

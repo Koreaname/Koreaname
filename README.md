@@ -64,14 +64,14 @@ Python & Machine Learning Developer
 
 ## 📎 Links & Contact
 
-- 📒 **Notion**: _링크 넣기_
-- ✉️ **Email**: _이메일 넣기_
+- 📒 **Notion**: https://www.notion.so/17245fb93fd9803f8126fdaa005d2dbb?source=copy_link
+- ✉️ **Email**: 12210465@inha.edu
 
 ---
 
 ### 🌱 Currently Working On…
-- 항공우주공학 시뮬레이션 프로젝트 정리  
-- Python 기반 실험 코드 표준화  
+- ML 스터디 및 연구
+- Upload Python assignments  
 - 학부 연구 & ML 실험 노트북 업로드  
 
 ---

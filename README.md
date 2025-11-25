@@ -12,8 +12,8 @@ Python & Machine Learning Developer
 ## 🚀 About Me
 
 - ✈️ **Aerospace Engineering (항공우주공학) 전공**  
+- 🧰 **Python 기반 수치해석 · 데이터 분석 · ML 개발**
 - 🧪 **학부연구생** — 프로젝트 / 모델링 / 분석 작업물 업로드  
-- 🧰 **Python 기반 수치해석 · 데이터 분석 · ML 개발**  
 - 📚 **과목 설계(노트북/코드/문서) 및 실험 리포트 템플릿 업로드 용 계정**
 
 ---

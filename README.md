@@ -1,6 +1,6 @@
 <!-- 프로필 상단 배너 or 이미지 필요하면 말해줘! -->
 
-<h1 align="center">✨ Hi, I'm Koreaname ✨</h1>
+<h1 align="center">Hi, I'm Koreaname</h1>
 
 <p align="center">
 Aerospace Engineering Undergraduate Researcher /  

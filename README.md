@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Koreaname</h1>
 
 <p align="center">
-Aerospace Engineering Undergraduate Researcher /  
+Aerospace Engineering Undergraduate Researcher  
 Python & Machine Learning Developer  
 </p>
 

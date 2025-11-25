@@ -21,13 +21,14 @@ Python & Machine Learning Developer
  - Python
  - C++
  - Jupyter
+ 
 ### Aerospace & Simulation
 - Flight Dynamics / Control
 - PX4-Drone
 - Structure analysis with **ABAQUS**
 
 ### Machine Learning & Study
-- ML basics (regression / classification)
+- ML basics (regression / classification / cnn)
 - Study with lecture notes & exercises
 
 ---
@@ -41,17 +42,6 @@ Python & Machine Learning Developer
 - 🤖 **ML Projects**
   - Study with Lecture Notes
   - Exercises
-
-_(위 항목들은 앞으로 레포를 만들면 링크를 걸 자리야.)_
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koreaname&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koreaname&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 

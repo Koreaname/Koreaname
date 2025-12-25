@@ -18,9 +18,9 @@ Python & Machine Learning Developer
 
 ### Languages & Tools
 <p>
- - Python
- - C++
- - Jupyter
+- Python
+- C++
+- Jupyter
  
 ### Aerospace & Simulation
 - Flight Dynamics / Control

@@ -17,7 +17,6 @@ Python & Machine Learning Developer
 ## 🛠 Tech Stack
 
 ### Languages & Tools
-<p>
 - Python
 - C++
 - Jupyter
